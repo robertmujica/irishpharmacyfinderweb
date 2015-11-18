@@ -1,6 +1,6 @@
 # Irish Pharmacy Finder web
 
-Repository to hol Irish Pharmacy Web site project
+Repository containing Irish Pharmacy Web site project
 
 # Architecture 
 
