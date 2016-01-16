@@ -2,10 +2,11 @@
 
 Repository containing Irish Pharmacy Web site project
 
-# Architecture 
-
-TODO
+Site url : http://irishpharmacyfinder.azurewebsites.net
 
 # Technology used
 
-TODO
+- Bootstrap
+- NodeJS
+- Microsoft Azure
+- JQuery
